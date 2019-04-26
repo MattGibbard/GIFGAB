@@ -4,7 +4,7 @@ An online open chat homepage using GIFs and text.
 
 ### To do list
 - [x] Code environment and Github connection
-- [ ] Basic Express routing and server
+- [x] Basic Express routing and server
 - [ ] Basic homepage template
 - [ ] Basic GIF finder and comment form
 - [ ] Saving comments and GIFs to DB
