@@ -12,6 +12,7 @@ An online open chat homepage using GIFs and text.
 - [ ] Custom styling
 - [ ] Responsive styling
 - [ ] Error handling
+- [ ] Performance testing
 
 ### Idea list
 - [ ] Utilise websockets

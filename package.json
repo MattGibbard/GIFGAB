@@ -1,19 +1,16 @@
 {
   "name": "gifgab",
   "version": "0.0.0",
-  "description": "Coming soon",
-  "main": "index.js",
+  "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node ./bin/www"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/MattGibbard/GIFGAB.git"
-  },
-  "author": "mattgibbard",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/MattGibbard/GIFGAB/issues"
-  },
-  "homepage": "https://github.com/MattGibbard/GIFGAB#readme"
+  "dependencies": {
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "ejs": "~2.5.7",
+    "express": "~4.16.0",
+    "http-errors": "~1.6.2",
+    "morgan": "~1.9.0"
+  }
 }
